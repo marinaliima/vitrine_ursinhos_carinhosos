@@ -82,15 +82,17 @@ header {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    background-color: rgba(248, 234, 208, 0.815);
+    background-color: rgba(170, 212, 236, 0.2);
     border-radius: 20px;
+    border-style: solid;
+    border-color: rgb(163, 133, 145, 0.5);
     padding: 20px;
     text-align: center;
 }
 
 .ursinho img {
     width: 100%;
-    height: auto;
+    height: 300px;
     object-fit: cover;
 }
 
@@ -109,7 +111,7 @@ footer hr {
     margin-bottom: 20px;
     border-top: none;
     border-width: 1px;
-    border-color: rgba(134, 176, 201, 0.7);
+    border-color: rgba(98, 125, 141, 0.7);
 }
 
 #identificacao {
